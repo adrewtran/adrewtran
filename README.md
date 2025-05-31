@@ -1,7 +1,7 @@
 
 # Hi there!👋 I'm An Tran
 
-A **Senior Software Engineer** with a decade of experience designing, developing, and deploying robust software solutions. I'm passionate about building impactful products, continuously learning, and solving complex challenges across various tech stacks.
+I am a **Senior Software Engineer | Engineering Leader** with a decade of experience designing, developing, and deploying robust software solutions. I'm passionate about building impactful products, continuously learning, and solving complex challenges across various tech stacks.
 
 -----
 
