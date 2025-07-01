@@ -69,4 +69,4 @@ When I'm not immersed in development, I'm likely to find me:
 I'm always open to discussing new opportunities, potential collaborations, or just connecting with fellow engineers.
 
   * **LinkedIn:** [https://www.linkedin.com/in/antran1988](https://www.linkedin.com/in/antran1988)
-  * **Email:** [trannguyenkhanhan@gmail.com](mailto:trannguyenkhanhan@gmail.com)
+  * **Email:** [antran.devus@gmail.com](mailto:antran.devus@gmail.com)
